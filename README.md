@@ -8,7 +8,7 @@
 
 🚀 About Me
 
-🎓 B.Sc. Computer Science Student
+🎓 BCA DATASCIENCE STUDENT
 
 💼 Cloud Computing Intern at Tencon Infra
 
