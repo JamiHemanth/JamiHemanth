@@ -461,7 +461,7 @@
 - 🐍 **Microsoft** – Python Programming Fundamentals
 - 🔐 **IBM** – Cybersecurity Architecture
 - ☁️ **AWS** – Introduction to IT and AWS Cloud
-- 📚 **IIM Skills**
+  
 
 ---
 
