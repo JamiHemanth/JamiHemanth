@@ -1,17 +1,19 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0077FF&height=220&section=header&text=Jami%20Hemanth&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0077FF&height=230&section=header&text=Jami%20Hemanth&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
   width="100%"
   alt="Jami Hemanth"
 />
 
-<h2>Hi 👋, I'm Jami Hemanth</h2>
+<h1>Hi 👋, I'm Jami Hemanth</h1>
 
-<h3>Data Science Student | Python Developer | Machine Learning Enthusiast</h3>
+<h3>
+Data Science Student | Python Developer | AI & Machine Learning Enthusiast
+</h3>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;FastAPI+Developer;AI+%26+Data+Science+Enthusiast;Full-Stack+Developer;Always+Learning+Something+New"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=850&lines=Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;AI+Application+Developer;FastAPI+Developer;Full-Stack+Developer;Data+Analytics+Enthusiast;Always+Learning+Something+New"
   alt="Typing SVG"
 />
 
@@ -37,16 +39,23 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Currently pursuing **BCA in Data Science**
-- 🐍 Passionate about **Python, Data Science and Machine Learning**
-- 📊 Interested in **Data Analysis, Data Visualization and Predictive Analytics**
-- 🤖 Exploring **Artificial Intelligence and Machine Learning**
-- ⚡ Building applications using **FastAPI, Next.js and React**
-- 🗄️ Working with **SQL and PostgreSQL**
-- 🚀 Interested in building **real-world AI-powered applications**
-- 💡 Love participating in **Hackathons, Coding Events and Skill Expos**
-- 🏆 **Mr. Coder – 2 Times**
-- 🌱 Currently improving my **Machine Learning and Full-Stack Development** skills
+🎓 I am currently pursuing **BCA in Data Science** with a strong interest in Artificial Intelligence, Machine Learning and Software Development.
+
+🐍 I enjoy building applications using **Python, FastAPI, Next.js and modern web technologies**.
+
+📊 I am interested in **Data Analysis, Data Visualization, Predictive Analytics and Machine Learning**.
+
+🤖 My goal is to transform data and ideas into **practical AI-powered solutions for real-world problems**.
+
+🌾 Currently working on **AI Farm Brain**, an agricultural intelligence platform focused on helping farmers make better data-driven decisions.
+
+📦 I have also developed **AI Stock Hub**, an AI-powered inventory and stock management platform.
+
+💡 I actively participate in **Hackathons, Coding Events, Skill Expos and technical activities**.
+
+🏆 **Mr. Coder – 2 Times**
+
+🌱 Currently improving my skills in **Machine Learning, Deep Learning, Full-Stack Development, Cloud and AI Applications**.
 
 ---
 
@@ -57,27 +66,15 @@
 <p align="center">
 
 <a href="https://www.python.org/">
-  <img
-    src="https://skillicons.dev/icons?i=python"
-    width="65"
-    alt="Python"
-  />
+<img src="https://skillicons.dev/icons?i=python" width="65" alt="Python"/>
 </a>
 
 <a href="https://en.cppreference.com/w/c">
-  <img
-    src="https://skillicons.dev/icons?i=c"
-    width="65"
-    alt="C"
-  />
+<img src="https://skillicons.dev/icons?i=c" width="65" alt="C"/>
 </a>
 
 <a href="https://www.java.com/">
-  <img
-    src="https://skillicons.dev/icons?i=java"
-    width="65"
-    alt="Java"
-  />
+<img src="https://skillicons.dev/icons?i=java" width="65" alt="Java"/>
 </a>
 
 </p>
@@ -119,6 +116,7 @@
 </p>
 
 <p align="center">
+
 🔢 <b>NumPy</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 🐼 <b>Pandas</b>
@@ -126,6 +124,7 @@
 🤖 <b>Scikit-Learn</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 🧠 <b>TensorFlow</b>
+
 </p>
 
 ---
@@ -157,6 +156,7 @@
 </p>
 
 <p align="center">
+
 📊 <b>Matplotlib</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 📈 <b>Seaborn</b>
@@ -164,6 +164,7 @@
 📉 <b>Tableau</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 📗 <b>Microsoft Excel</b>
+
 </p>
 
 ---
@@ -173,87 +174,61 @@
 <p align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img
-    src="https://skillicons.dev/icons?i=html"
-    width="65"
-    alt="HTML"
-  />
+<img src="https://skillicons.dev/icons?i=html" width="65" alt="HTML"/>
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img
-    src="https://skillicons.dev/icons?i=css"
-    width="65"
-    alt="CSS"
-  />
+<img src="https://skillicons.dev/icons?i=css" width="65" alt="CSS"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" width="65" alt="JavaScript"/>
+</a>
+
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="65" alt="React"/>
 </a>
 
 <a href="https://nextjs.org/">
-  <img
-    src="https://skillicons.dev/icons?i=nextjs"
-    width="65"
-    alt="Next.js"
-  />
+<img src="https://skillicons.dev/icons?i=nextjs" width="65" alt="Next.js"/>
 </a>
 
 <a href="https://fastapi.tiangolo.com/">
-  <img
-    src="https://skillicons.dev/icons?i=fastapi"
-    width="65"
-    alt="FastAPI"
-  />
+<img src="https://skillicons.dev/icons?i=fastapi" width="65" alt="FastAPI"/>
 </a>
 
 </p>
 
 <p align="center">
+
 🌐 <b>HTML</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 🎨 <b>CSS</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
+🟨 <b>JavaScript</b>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+⚛️ <b>React</b>
+&nbsp;&nbsp; | &nbsp;&nbsp;
 ▲ <b>Next.js</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 ⚡ <b>FastAPI</b>
+
 </p>
 
 ---
 
-## ⚛️ Frontend & Backend
+## 🔷 TypeScript
 
 <p align="center">
 
-<a href="https://react.dev/">
-  <img
-    src="https://skillicons.dev/icons?i=react"
-    width="65"
-    alt="React"
-  />
-</a>
-
 <a href="https://www.typescriptlang.org/">
-  <img
-    src="https://skillicons.dev/icons?i=typescript"
-    width="65"
-    alt="TypeScript"
-  />
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img
-    src="https://skillicons.dev/icons?i=javascript"
-    width="65"
-    alt="JavaScript"
-  />
+<img src="https://skillicons.dev/icons?i=typescript" width="65" alt="TypeScript"/>
 </a>
 
 </p>
 
 <p align="center">
-⚛️ <b>React</b>
-&nbsp;&nbsp; | &nbsp;&nbsp;
 🔷 <b>TypeScript</b>
-&nbsp;&nbsp; | &nbsp;&nbsp;
-🟨 <b>JavaScript</b>
 </p>
 
 ---
@@ -263,29 +238,63 @@
 <p align="center">
 
 <a href="https://www.postgresql.org/">
-  <img
-    src="https://skillicons.dev/icons?i=postgresql"
-    width="65"
-    alt="PostgreSQL"
-  />
+<img src="https://skillicons.dev/icons?i=postgresql" width="65" alt="PostgreSQL"/>
 </a>
 
 <a href="https://www.mysql.com/">
-  <img
-    src="https://skillicons.dev/icons?i=mysql"
-    width="65"
-    alt="MySQL"
-  />
+<img src="https://skillicons.dev/icons?i=mysql" width="65" alt="MySQL"/>
 </a>
 
 </p>
 
 <p align="center">
+
 🐘 <b>PostgreSQL</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 🐬 <b>MySQL</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 🗃️ <b>SQL</b>
+
+</p>
+
+---
+
+## 🔐 Backend & Development Technologies
+
+<p align="center">
+
+<img
+  src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+  alt="FastAPI"
+/>
+
+<img
+  src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"
+  alt="JWT"
+/>
+
+<img
+  src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"
+  alt="Prisma"
+/>
+
+<img
+  src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white"
+  alt="Zod"
+/>
+
+</p>
+
+<p align="center">
+
+⚡ <b>FastAPI</b>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+🔐 <b>JWT</b>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+🔷 <b>Prisma</b>
+&nbsp;&nbsp; | &nbsp;&nbsp;
+✅ <b>Zod</b>
+
 </p>
 
 ---
@@ -295,56 +304,33 @@
 <p align="center">
 
 <a href="https://git-scm.com/">
-  <img
-    src="https://skillicons.dev/icons?i=git"
-    width="65"
-    alt="Git"
-  />
+<img src="https://skillicons.dev/icons?i=git" width="65" alt="Git"/>
 </a>
 
 <a href="https://github.com/">
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    width="65"
-    alt="GitHub"
-  />
+<img src="https://skillicons.dev/icons?i=github" width="65" alt="GitHub"/>
 </a>
 
 <a href="https://code.visualstudio.com/">
-  <img
-    src="https://skillicons.dev/icons?i=vscode"
-    width="65"
-    alt="VS Code"
-  />
+<img src="https://skillicons.dev/icons?i=vscode" width="65" alt="VS Code"/>
 </a>
 
 <a href="https://jupyter.org/">
-  <img
-    src="https://skillicons.dev/icons?i=jupyter"
-    width="65"
-    alt="Jupyter"
-  />
+<img src="https://skillicons.dev/icons?i=jupyter" width="65" alt="Jupyter"/>
 </a>
 
 <a href="https://www.docker.com/">
-  <img
-    src="https://skillicons.dev/icons?i=docker"
-    width="65"
-    alt="Docker"
-  />
+<img src="https://skillicons.dev/icons?i=docker" width="65" alt="Docker"/>
 </a>
 
 <a href="https://redis.io/">
-  <img
-    src="https://skillicons.dev/icons?i=redis"
-    width="65"
-    alt="Redis"
-  />
+<img src="https://skillicons.dev/icons?i=redis" width="65" alt="Redis"/>
 </a>
 
 </p>
 
 <p align="center">
+
 🔀 <b>Git</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 🐙 <b>GitHub</b>
@@ -356,6 +342,7 @@
 🐳 <b>Docker</b>
 &nbsp;&nbsp; | &nbsp;&nbsp;
 🔴 <b>Redis</b>
+
 </p>
 
 ---
@@ -364,7 +351,7 @@
 
 ## 🌾 AI Farm Brain
 
-**AI-powered agricultural intelligence platform designed to help farmers manage farms, crops, sensors, activities, expenses and agricultural services through one unified platform.**
+**AI-powered agricultural intelligence platform designed to bring farm management, crop insights, monitoring and data-driven decision support into one unified platform.**
 
 ### 🛠️ Technologies
 
@@ -393,8 +380,8 @@
 - 💰 Expense Management
 - 🔧 Agricultural Service Management
 - 👥 Role-based Access
-- 🗄️ PostgreSQL Database
 - 🔐 JWT Authentication
+- 🗄️ PostgreSQL Database
 - ✅ Data Validation with Zod
 - 🧪 Testing with Vitest
 
@@ -403,27 +390,45 @@
 - 📈 Crop Yield Prediction
 - 🦠 Crop Disease Risk Prediction
 - 💧 Irrigation Requirement Prediction
-- 🐛 Pest Outbreak Prediction
-- 📊 Resource Demand Forecasting
-- 🤖 Intelligent Agricultural Recommendations
+- 🐛 Pest Risk Prediction
+- 📊 Agricultural Resource Forecasting
+- 🤖 Intelligent Farming Recommendations
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/JamiHemanth/AI-FARM-BRAIN">
+<img src="https://img.shields.io/badge/View%20Project-AI%20Farm%20Brain-00BFFF?style=for-the-badge&logo=github" alt="AI Farm Brain"/>
+</a>
+
+</div>
 
 ---
 
 ## 📦 AI Stock Hub
 
-**AI-powered inventory and stock management platform**
+**AI-powered inventory and stock management platform designed to monitor stock, analyze sales and support intelligent demand forecasting.**
 
 ### 🛠️ Technologies
 
-- 🐍 Python
-- ⚡ FastAPI
-- ▲ Next.js
-- 🐘 PostgreSQL
-- 🔴 Redis
-- 🐳 Docker
-- 🤖 Machine Learning
+<p align="center">
 
-### ✨ Features
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+
+</p>
+
+### ✨ Key Features
 
 - 📦 Inventory Management
 - 📊 Stock Monitoring
@@ -434,6 +439,43 @@
 - ⚡ Redis Caching
 - 🌐 FastAPI Backend
 - 💻 Next.js Frontend
+- 📊 Data-driven Inventory Insights
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/JamiHemanth/AI-STOCK-HUB">
+<img src="https://img.shields.io/badge/View%20Project-AI%20Stock%20Hub-0077FF?style=for-the-badge&logo=github" alt="AI Stock Hub"/>
+</a>
+
+</div>
+
+---
+
+## 🗺️ Tourists Spot
+
+**Tourism web application that helps users discover tourist destinations, explore popular attractions and access useful information for trip planning.**
+
+### ✨ Key Features
+
+- 📍 Tourist Destination Search
+- 🏞️ Popular Tourist Attractions
+- 🖼️ Destination Information
+- 🗺️ Interactive Maps
+- 🌍 Location-based Exploration
+- 📱 User-friendly Interface
+- 🧭 Travel Planning Support
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/JamiHemanth/Tourists-Spot">
+<img src="https://img.shields.io/badge/View%20Project-Tourists%20Spot-00BFFF?style=for-the-badge&logo=github" alt="Tourists Spot"/>
+</a>
+
+</div>
 
 ---
 
@@ -447,7 +489,7 @@
 | 💻 **Hackathons** | Participated in multiple hackathons |
 | 🚀 **Skill Expo** | Participated in technical skill expos |
 | 📊 **Data Science Events** | Organized and participated in Data Science events |
-| 👨‍💻 **Coding** | Active coding and problem-solving practice |
+| 👨‍💻 **Coding Practice** | Active problem-solving and coding practice |
 
 </div>
 
@@ -461,7 +503,7 @@
 - 🐍 **Microsoft** – Python Programming Fundamentals
 - 🔐 **IBM** – Cybersecurity Architecture
 - ☁️ **AWS** – Introduction to IT and AWS Cloud
-  
+- 📚 **IIM Skills**
 
 ---
 
@@ -502,7 +544,7 @@
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamiHemanth&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5"
   width="55%"
-  alt="Most Used Languages"
+  alt="Jami Hemanth Most Used Languages"
 />
 
 </a>
