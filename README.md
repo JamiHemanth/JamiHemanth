@@ -27,31 +27,7 @@ Data Science Student | Python Developer | AI & Machine Learning Enthusiast
 <tr>
 <td align="center">
 
-### 👤 Personal Information
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-📍 <b>Location:</b> Andhra Pradesh, India  
-<br><br>
-
-🎓 <b>Education:</b> BCA – Data Science  
-<br><br>
-
-💼 <b>Career Focus:</b> Data Science | AI | Machine Learning | Python Development  
-<br><br>
-
-📧 <b>Email:</b> <a href="mailto:hemanthjami39@gmail.com">hemanthjami39@gmail.com</a>  
-<br><br>
-
-📱 <b>Contact:</b> 7093581429
-
-</td>
-</tr>
-</table>
 
 <br>
 
