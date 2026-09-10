@@ -1,9 +1,9 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0077FF&height=230&section=header&text=Jami%20Hemanth&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
-  width="100%"
-  alt="Jami Hemanth"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0077FF&height=230&section=header&text=Jami%20Hemanth&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+width="100%"
+alt="Jami Hemanth"
 />
 
 <h1>Hi 👋, I'm Jami Hemanth</h1>
@@ -87,19 +87,35 @@ alt="GitHub Followers"
 
 🎓 I am currently pursuing **BCA in Data Science** with a strong interest in **Artificial Intelligence, Machine Learning and Software Development**.
 
+<br>
+
 🐍 I enjoy building applications using **Python, FastAPI, Next.js and modern web technologies**.
+
+<br>
 
 📊 I am interested in **Data Analysis, Data Visualization, Predictive Analytics and Machine Learning**.
 
+<br>
+
 🤖 My goal is to transform **data and ideas into practical AI-powered solutions for real-world problems**.
+
+<br>
 
 🌾 Currently developing **AI Farm Brain**, an agricultural intelligence platform focused on data-driven farming solutions.
 
+<br>
+
 📦 I have also developed **AI Stock Hub**, an AI-powered inventory and stock management platform.
+
+<br>
 
 💡 I actively participate in **Hackathons, Coding Events and Skill Expos**.
 
+<br>
+
 🏆 **Mr. Coder – 2 Times**
+
+<br>
 
 🌱 Currently improving my skills in **Machine Learning, Deep Learning, Full-Stack Development, Cloud and AI Applications**.
 
@@ -108,9 +124,9 @@ alt="GitHub Followers"
 <td width="42%" align="center" valign="middle">
 
 <img
-src="https://illustrations.popsy.co/blue/man-coding.svg"
+src="./assets/ai-developer.png"
 width="100%"
-alt="AI Developer Coding"
+alt="AI Developer"
 />
 
 </td>
@@ -126,47 +142,23 @@ alt="AI Developer Coding"
 
 <div align="center">
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
-</a>
-&nbsp;&nbsp;
+<img
+src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css&theme=light&perline=6"
+alt="Programming Languages"
+/>
 
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" width="55" alt="Java"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-<img src="https://skillicons.dev/icons?i=c" width="55" alt="C"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp" width="55" alt="C++"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="55" alt="HTML"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="55" alt="CSS"/>
-</a>
-
-<br>
+<br><br>
 
 <b>Python</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>Java</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>C</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>C++</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>HTML</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>CSS</b>
 
 </div>
@@ -177,31 +169,22 @@ alt="AI Developer Coding"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow" width="55" alt="TensorFlow"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/013243" width="55" alt="NumPy"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" width="55" alt="Pandas"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="55" alt="Scikit-learn"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55" alt="Matplotlib"/>
+<img
+src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&theme=light&perline=5"
+alt="AI and Machine Learning"
+/>
 
-<br>
+<br><br>
 
 <b>Python</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>TensorFlow</b>
-&nbsp;&nbsp;&nbsp;
-<b>NumPy</b>
-&nbsp;&nbsp;&nbsp;
-<b>Pandas</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
+<b>PyTorch</b>
+&nbsp; • &nbsp;
+<b>OpenCV</b>
+&nbsp; • &nbsp;
 <b>Scikit-learn</b>
-&nbsp;&nbsp;&nbsp;
-<b>Matplotlib</b>
 
 <br><br>
 
@@ -227,27 +210,30 @@ alt="AI Developer Coding"
 
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/tableau/E97627" width="55" alt="Tableau"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="55" alt="Excel"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" width="55" alt="Pandas"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/numpy/013243" width="55" alt="NumPy"/>
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/matplotlib/11557C" width="55" alt="Matplotlib"/>
+<img
+src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"
+alt="Tableau"
+/>
 
-<br>
+<img
+src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"
+alt="Microsoft Excel"
+/>
 
-<b>Tableau</b>
-&nbsp;&nbsp;&nbsp;
-<b>Microsoft Excel</b>
-&nbsp;&nbsp;&nbsp;
-<b>Pandas</b>
-&nbsp;&nbsp;&nbsp;
-<b>NumPy</b>
-&nbsp;&nbsp;&nbsp;
-<b>Matplotlib</b>
+<img
+src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
+alt="NumPy"
+/>
+
+<img
+src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
+alt="Pandas"
+/>
+
+<img
+src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"
+alt="Matplotlib"
+/>
 
 <br><br>
 
@@ -258,6 +244,8 @@ alt="AI Developer Coding"
 <b>Data Visualization</b>
 &nbsp; • &nbsp;
 <b>EDA</b>
+&nbsp; • &nbsp;
+<b>Dashboard Development</b>
 
 </div>
 
@@ -268,24 +256,41 @@ alt="AI Developer Coding"
 <div align="center">
 
 <img
-src="https://cdn.simpleicons.org/scikitlearn/F7931E"
-width="55"
+src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
 alt="Scikit-learn"
 />
 
-<br>
+<br><br>
 
-<b>Linear Regression</b>
-&nbsp; • &nbsp;
-<b>Logistic Regression</b>
-&nbsp; • &nbsp;
-<b>Decision Trees</b>
-&nbsp; • &nbsp;
-<b>KNN</b>
-&nbsp; • &nbsp;
+<img
+src="https://img.shields.io/badge/Linear%20Regression-0077FF?style=for-the-badge"
+alt="Linear Regression"
+/>
+
+<img
+src="https://img.shields.io/badge/Logistic%20Regression-00BFFF?style=for-the-badge"
+alt="Logistic Regression"
+/>
+
+<img
+src="https://img.shields.io/badge/Decision%20Trees-0077FF?style=for-the-badge"
+alt="Decision Trees"
+/>
+
+<img
+src="https://img.shields.io/badge/KNN-00BFFF?style=for-the-badge"
+alt="KNN"
+/>
+
+<br><br>
+
 <b>Classification</b>
 &nbsp; • &nbsp;
 <b>Regression</b>
+&nbsp; • &nbsp;
+<b>Model Evaluation</b>
+&nbsp; • &nbsp;
+<b>Feature Engineering</b>
 
 </div>
 
@@ -295,26 +300,21 @@ alt="Scikit-learn"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi" width="55" alt="FastAPI"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs" width="55" alt="Next.js"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="55" alt="React"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=typescript" width="55" alt="TypeScript"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="55" alt="Node.js"/>
+<img
+src="https://skillicons.dev/icons?i=fastapi,nextjs,react,typescript,nodejs&theme=light&perline=5"
+alt="Web Technologies"
+/>
 
-<br>
+<br><br>
 
 <b>FastAPI</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>Next.js</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>React</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>TypeScript</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>Node.js</b>
 
 <br><br>
@@ -333,23 +333,22 @@ alt="Scikit-learn"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgresql" width="55" alt="PostgreSQL"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="55" alt="MySQL"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=redis" width="55" alt="Redis"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=firebase" width="55" alt="Firebase"/>
+<img
+src="https://skillicons.dev/icons?i=postgresql,mysql,redis,firebase,prisma&theme=light&perline=5"
+alt="Databases and Backend"
+/>
 
-<br>
+<br><br>
 
 <b>PostgreSQL</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>MySQL</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>Redis</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>Firebase</b>
+&nbsp; • &nbsp;
+<b>Prisma</b>
 
 </div>
 
@@ -359,30 +358,23 @@ alt="Scikit-learn"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git" width="55" alt="Git"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="55" alt="GitHub"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="55" alt="VS Code"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=jupyter" width="55" alt="Jupyter"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" width="55" alt="Docker"/>
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=aws" width="55" alt="AWS"/>
+<img
+src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker,aws&theme=light&perline=6"
+alt="Tools and Platforms"
+/>
 
-<br>
+<br><br>
 
 <b>Git</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>GitHub</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>VS Code</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>Jupyter Notebook</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>Docker</b>
-&nbsp;&nbsp;&nbsp;
+&nbsp; • &nbsp;
 <b>AWS</b>
 
 </div>
@@ -393,11 +385,20 @@ alt="Scikit-learn"
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DBMS-0077FF?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OOP-00BFFF?style=for-the-badge"/>
-&nbsp;
-<img src="https://img.shields.io/badge/OOSE-181717?style=for-the-badge"/>
+<img
+src="https://img.shields.io/badge/DBMS-0077FF?style=for-the-badge"
+alt="DBMS"
+/>
+
+<img
+src="https://img.shields.io/badge/OOP-00BFFF?style=for-the-badge"
+alt="OOP"
+/>
+
+<img
+src="https://img.shields.io/badge/OOSE-181717?style=for-the-badge"
+alt="OOSE"
+/>
 
 </div>
 
@@ -423,6 +424,8 @@ AI-powered agricultural intelligence platform designed to help farmers manage fa
 <a href="https://github.com/JamiHemanth/AI-FARM-BRAIN">
 AI-FARM-BRAIN
 </a>
+
+<br><br>
 
 <h3>🛠️ Technologies</h3>
 
@@ -470,6 +473,8 @@ AI-powered inventory and stock management platform for monitoring inventory, ana
 AI-STOCK-HUB
 </a>
 
+<br><br>
+
 <h3>🛠️ Technologies</h3>
 
 <code>Python</code>
@@ -508,6 +513,8 @@ Tourism web application that helps users discover destinations, explore popular 
 Tourists-Spot
 </a>
 
+<br><br>
+
 <h3>✨ Features</h3>
 
 ✔️ Tourist Destination Search  
@@ -517,10 +524,6 @@ Tourists-Spot
 ✔️ Location-based Exploration  
 ✔️ User-friendly Interface  
 ✔️ Travel Planning Support  
-
-<h3>🌍 Purpose</h3>
-
-A simple and user-friendly platform designed to help users discover destinations and explore popular tourist attractions.
 
 </td>
 
@@ -587,16 +590,20 @@ alt="Email"
 
 📱 **7093581429**
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### 💙 Turning Data and Ideas into Real-World Impact
 
+</div>
+
+<br>
+
+<div align="center">
+
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00BFFF&height=120&section=footer"
+width="100%"
+alt="Footer"
 />
 
 </div>
