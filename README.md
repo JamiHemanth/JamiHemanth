@@ -123,11 +123,11 @@ Full-Stack Development, Cloud and AI Applications**.
 
 ### Programming Languages
 
-`Python` `Java` `C` `SQL`
+`Python` `Java` `C` 
 
 ### Data Science & Machine Learning
 
-`Data Analysis` `Data Cleaning` `Data Visualization` `Machine Learning` `Deep Learning` `Predictive Analytics`
+`Data Analysis` `Data Cleaning` `Data Visualization` `Machine Learning` 
 
 ### Machine Learning Algorithms
 
@@ -135,19 +135,19 @@ Full-Stack Development, Cloud and AI Applications**.
 
 ### Python Libraries
 
-`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `TensorFlow`
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` 
 
 ### Web Development
 
-`HTML` `CSS` `JavaScript` `React` `Next.js` `FastAPI`
+`HTML` `CSS` `JavaScript` `React` 
 
 ### Backend & Databases
 
-`FastAPI` `REST APIs` `PostgreSQL` `MySQL` `Prisma`
+`FastAPI` `REST APIs` `PostgreSQL` `MySQL` 
 
 ### Cloud & DevOps
 
-`AWS` `Cloud Computing` `Docker` `Git` `GitHub`
+ `Cloud Computing`  `Git` `GitHub`
 
 ### Data Visualization & Tools
 
@@ -155,7 +155,7 @@ Full-Stack Development, Cloud and AI Applications**.
 
 ### Core Computer Science
 
-`DBMS` `OOP` `OOSE` `Data Structures`
+`DBMS` `OOP` `OOSE`
 
 ---
 
