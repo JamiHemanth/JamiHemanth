@@ -119,6 +119,46 @@ Full-Stack Development, Cloud and AI Applications**.
 
 ---
 
+# 🛠️ Technical Skills
+
+### Programming Languages
+
+`Python` `Java` `C` `SQL`
+
+### Data Science & Machine Learning
+
+`Data Analysis` `Data Cleaning` `Data Visualization` `Machine Learning` `Deep Learning` `Predictive Analytics`
+
+### Machine Learning Algorithms
+
+`Linear Regression` `Logistic Regression` `Decision Trees` `KNN`
+
+### Python Libraries
+
+`NumPy` `Pandas` `Matplotlib` `Scikit-learn` `TensorFlow`
+
+### Web Development
+
+`HTML` `CSS` `JavaScript` `React` `Next.js` `FastAPI`
+
+### Backend & Databases
+
+`FastAPI` `REST APIs` `PostgreSQL` `MySQL` `Prisma`
+
+### Cloud & DevOps
+
+`AWS` `Cloud Computing` `Docker` `Git` `GitHub`
+
+### Data Visualization & Tools
+
+`Tableau` `Microsoft Excel` `Jupyter Notebook` `VS Code`
+
+### Core Computer Science
+
+`DBMS` `OOP` `OOSE` `Data Structures`
+
+---
+
 # 🚀 Featured Projects
 
 ## 🌾 AI Farm Brain
@@ -136,26 +176,26 @@ https://github.com/JamiHemanth/AI-FARM-BRAIN
 
 ### ✨ Features
 
-- 🌱 Farm Management
-- 🌾 Crop Management
-- 📡 Sensor Monitoring
-- 🌦️ Weather Monitoring
-- 🤖 AI-powered Recommendations
-- 📊 Farm Insights
-- 💰 Expense Management
-- 🔧 Agricultural Services
-- 🔐 JWT Authentication
-- 🗄️ PostgreSQL Database
-- ✅ Data Validation
+* 🌱 Farm Management
+* 🌾 Crop Management
+* 📡 Sensor Monitoring
+* 🌦️ Weather Monitoring
+* 🤖 AI-powered Recommendations
+* 📊 Farm Insights
+* 💰 Expense Management
+* 🔧 Agricultural Services
+* 🔐 JWT Authentication
+* 🗄️ PostgreSQL Database
+* ✅ Data Validation
 
 ### 🔮 Future ML Features
 
-- 📈 Crop Yield Prediction
-- 🦠 Crop Disease Prediction
-- 💧 Irrigation Prediction
-- 🐛 Pest Risk Prediction
-- 📊 Resource Forecasting
-- 🤖 Intelligent Farming Recommendations
+* 📈 Crop Yield Prediction
+* 🦠 Crop Disease Prediction
+* 💧 Irrigation Prediction
+* 🐛 Pest Risk Prediction
+* 📊 Resource Forecasting
+* 🤖 Intelligent Farming Recommendations
 
 ---
 
@@ -173,15 +213,15 @@ https://github.com/JamiHemanth/AI-STOCK-HUB
 
 ### ✨ Features
 
-- 📦 Inventory Management
-- 📊 Stock Monitoring
-- 🤖 AI Demand Forecasting
-- 📈 Sales Analysis
-- 🔔 Stock Alerts
-- ⚡ Redis Caching
-- 🗄️ PostgreSQL Database
-- 🌐 FastAPI Backend
-- 💻 Next.js Frontend
+* 📦 Inventory Management
+* 📊 Stock Monitoring
+* 🤖 AI Demand Forecasting
+* 📈 Sales Analysis
+* 🔔 Stock Alerts
+* ⚡ Redis Caching
+* 🗄️ PostgreSQL Database
+* 🌐 FastAPI Backend
+* 💻 Next.js Frontend
 
 ---
 
@@ -195,13 +235,13 @@ https://github.com/JamiHemanth/Tourists-Spot
 
 ### ✨ Features
 
-- 📍 Tourist Destination Search
-- 🏞️ Popular Tourist Attractions
-- 🖼️ Destination Information
-- 🗺️ Interactive Maps
-- 🌍 Location-based Exploration
-- 📱 User-friendly Interface
-- 🧭 Travel Planning Support
+* 📍 Tourist Destination Search
+* 🏞️ Popular Tourist Attractions
+* 🖼️ Destination Information
+* 🗺️ Interactive Maps
+* 🌍 Location-based Exploration
+* 📱 User-friendly Interface
+* 🧭 Travel Planning Support
 
 ---
 
@@ -251,7 +291,7 @@ alt="Email"
 
 <div align="center">
 
-📧 **hemanthjami39@gmail.com**
+📧 **[hemanthjami39@gmail.com](mailto:hemanthjami39@gmail.com)**
 📱 **7093581429**
 
-</div
+</div>
