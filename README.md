@@ -295,3 +295,13 @@ alt="Email"
 📱 **7093581429**
 
 </div>
+
+<br>
+
+<div align="center">
+
+### 💬 Quote
+
+> "Success is not final, failure is not fatal: it is the courage to continue that counts."
+
+</div>
