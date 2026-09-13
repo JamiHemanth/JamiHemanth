@@ -300,8 +300,9 @@ alt="Email"
 
 <div align="center">
 
-### 💬 Quote
-
-> "Success is not final, failure is not fatal: it is the courage to continue that counts."
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&height=80&lines=%22Success+is+not+final%2C+failure+is+not+fatal.%22;%22The+courage+to+continue+counts.%22"
+alt="Animated Quote"
+/>
 
 </div>
